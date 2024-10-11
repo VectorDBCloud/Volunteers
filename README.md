@@ -3,14 +3,14 @@
 
 # Comprehensive Task Outline for Volunteer Data Scientists
 
-## Introduction to VectorDBCloud
+## Introduction to Vector Database Cloud
 
-**VectorDBCloud** is a powerful platform for deploying, managing, and scaling vector databases. These databases are essential for handling high-dimensional vector data, widely used in applications like recommendation systems, anomaly detection, natural language processing (NLP), image recognition, and more.
+**Vector Database Cloud** is a powerful platform for deploying, managing, and scaling vector databases. These databases are essential for handling high-dimensional vector data, widely used in applications like recommendation systems, anomaly detection, natural language processing (NLP), image recognition, and more.
 
-### **Why VectorDBCloud is Important:**
+### **Why Vector Database Cloud is Important:**
 - **Scalability:** Enables efficient management of large-scale vector data, critical for real-time applications requiring high performance.
 - **Integration:** Seamlessly integrates with machine learning models and embeddings, facilitating rapid deployment of AI-driven solutions.
-- **Ease of Use:** With its user-friendly interface and powerful API, VectorDBCloud is accessible to developers and data scientists alike.
+- **Ease of Use:** With its user-friendly interface and powerful API, Vector Database Cloud is accessible to developers and data scientists alike.
 
 ### **Why Collaborate with Volunteers:**
 - **Spreading Awareness:** Volunteers help demonstrate the capabilities of vector databases, encouraging wider adoption.
